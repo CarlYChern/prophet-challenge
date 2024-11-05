@@ -1,11 +1,8 @@
-# prophet-challenge
-
 # Prophet Challenge
 
 Repository: prophet-challenge
 
-File: 
-* forecasting_net_prophet.ipynb  
+File: forecasting_net_prophet.ipynb  
 
 ## What it does
 
